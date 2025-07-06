@@ -179,7 +179,7 @@ const Index = () => {
               Become an Expert Partner
               <ArrowRight className="ml-2 h-5 w-5" strokeWidth={1.5} />
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 rounded-xl text-lg font-light transition-all duration-300 hover:scale-105">
+            <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-xl text-lg font-light shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               Start Verification Project
               <ArrowRight className="ml-2 h-5 w-5" strokeWidth={1.5} />
             </Button>
